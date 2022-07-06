@@ -6,3 +6,6 @@
 ```shell
     sudo docker image build -t chatbotcrmef . 
 ```
+```shell
+    sudo docker push younes99/chatbotcrmef:latest    
+```
